@@ -59,7 +59,7 @@ namespace курсач_2._0
             var randomPopulation = new RandomPopulations(SizeMatrix);
             var listMembers = new List<(IStartPopulations, float)>()
                 { (dispersion, 0.5f), (randomPopulation, 0.5f) };
-            var startPopulation = new NationalInitialPopulations(listMembers,CountPopulation);// select logik for start population
+            var startPopulation = new NationalInitialPopulations(listMembers,CountPopulation);;// select logik for start population
             
             
             var populationParent = startPopulation.GetBasePopulation(CountPopulation);
