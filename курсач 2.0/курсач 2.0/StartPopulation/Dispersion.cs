@@ -1,48 +1,47 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace курсач_2._0.StartPopulation
 {
-    class Dispersion : IStartPopulation
+    class Dispersion : IStartPopulations
     {
-        List<int[]> permutations = new();
-        public int CountNumber = 0;
-        public Dispersion(int CountNumber)
+        private readonly List<int[]> _permutations = new();
+        private readonly int _countNumber = 0;
+
+        public Dispersion(int countNumber)
         {
-            this.CountNumber = CountNumber;
+            this._countNumber = countNumber;
         }
 
         public List<int[]> GetBasePopulation(int countPopulation)
         {
-            while (permutations.Count < countPopulation)
+            while (_permutations.Count < countPopulation)
             {
-                int[] newPermutation = new int[CountNumber];
-                for (int i = 0; i < CountNumber; i++)
+                int[] newPermutation = new int[_countNumber];
+                for (int i = 0; i < _countNumber; i++)
                 {
-                    var Value_Repetitions = GetMinNumberByIndex(i);
+                    var valueRepetitions = GetMinNumberByIndex(i);
                     for (int j = 0; j < i; j++)
                     {
-                        Value_Repetitions.Remove(newPermutation[j]);
+                        valueRepetitions.Remove(newPermutation[j]);
                     }
-                    var key = GetRandomKey(Value_Repetitions);
+                    var key = GetRandomKey(valueRepetitions);
                     newPermutation[i] = key;
                 }
-                permutations.Add(newPermutation);
+                _permutations.Add(newPermutation);
             }
-            return permutations;
-
+            return _permutations;
         }
+
         private int GetRandomKey(Dictionary<int, int> dict)
         {
-            double totalWeight = dict.Values.Sum(value => 1.0 / value);
+            double totalWeight = dict.Values.Sum(value => 1.0 / (value + 1)); // +1 чтобы избежать деления на 0
             double randomValue = new Random().NextDouble() * totalWeight;
             double cumulativeWeight = 0;
             foreach (var kvp in dict)
             {
-                cumulativeWeight += 1.0 / kvp.Value;
+                cumulativeWeight += 1.0 / (kvp.Value + 1);
                 if (cumulativeWeight >= randomValue)
                 {
                     return kvp.Key;
@@ -50,15 +49,24 @@ namespace курсач_2._0.StartPopulation
             }
             return dict.Keys.First();
         }
+
         private Dictionary<int, int> GetMinNumberByIndex(int index)
         {
             Dictionary<int, int> Value_Repetitions = new();
-            foreach (var permutation in permutations)
+            foreach (var permutation in _permutations)
             {
-                if (Value_Repetitions.ContainsKey(permutation[index])) Value_Repetitions[permutation[index]]++;
-                else Value_Repetitions.Add(permutation[index], 1);
+                if (index < permutation.Length)
+                {
+                    int val = permutation[index];
+                    if (Value_Repetitions.ContainsKey(val))
+                        Value_Repetitions[val]++;
+                    else
+                        Value_Repetitions[val] = 1;
+                }
             }
-            for (int i = 0; i < CountNumber; i++)
+
+            // Теперь от 1 до CountNumber
+            for (int i = 1; i <= _countNumber; i++)
             {
                 if (!Value_Repetitions.ContainsKey(i))
                     Value_Repetitions.Add(i, 0);

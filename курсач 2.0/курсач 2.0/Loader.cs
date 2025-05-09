@@ -44,11 +44,64 @@ namespace курсач_2._0
         //        Console.WriteLine($"Ошибка при сохранении файла: {ex.Message}");
         //    }
         //}
+        public static (int[,]? F, int[,]? D) SpecialLoader(string filename, out int Size)
+        {
+            string filePath = "task" + filename + ".txt"; // путь к вашему файлу
 
+            // Чтение всех данных из файла в виде списка чисел
+            List<int> numbers = new List<int>();
+            foreach (string line in File.ReadLines(filePath))
+            {
+                string[] parts = line.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                foreach (string part in parts)
+                {
+                    if (int.TryParse(part, out int value))
+                    {
+                        numbers.Add(value);
+                    }
+                }
+            }
+
+            // Первое число — это N
+            int N = numbers[0];
+            Size = N;
+            int totalExpectedNumbers = 2 * N * N;
+
+            if (numbers.Count < totalExpectedNumbers + 1) // +1 для N
+            {
+                Console.WriteLine("Ошибка: недостаточно данных в файле.");
+            }
+
+            // Создаем матрицы
+            int[,] F = new int[N, N];
+            int[,] D = new int[N, N];
+
+            // Заполняем матрицы
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    int index = 1 + i * N + j;
+                    F[i, j] = numbers[index];
+                }
+            }
+
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    int index = 1 + N * N + i * N + j;
+                    D[i, j] = numbers[index];
+                }
+            }
+            return (F, D);
+        }
         public static (int[,]? F, int[,]? D) LoadFromFile(string filename, out int Size)
         {
             int[,] F;
             int[,] D;
+            if (filename.Contains("60") || filename.Contains("70") || filename.Contains("80"))
+                return SpecialLoader(filename, out Size);
             try
             {
                 using (StreamReader reader = new StreamReader("task" + filename + ".txt"))

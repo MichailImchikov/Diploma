@@ -26,3 +26,28 @@ C:\Users\Cokle\Desktop\Диплом\курсач 2.0\курсач 2.0\obj\Debug\
 C:\Users\Cokle\Desktop\Диплом\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.pdb
 C:\Users\Cokle\Desktop\Диплом\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.genruntimeconfig.cache
 C:\Users\Cokle\Desktop\Диплом\курсач 2.0\курсач 2.0\obj\Debug\net8.0\ref\курсач 2.0.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\курсач 2.0.exe
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\курсач 2.0.deps.json
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\курсач 2.0.runtimeconfig.json
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\курсач 2.0.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\курсач 2.0.pdb
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.AssemblyInfoInputs.cache
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.AssemblyInfo.cs
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.sourcelink.json
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\refint\курсач 2.0.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.pdb
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.genruntimeconfig.cache
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\ref\курсач 2.0.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.csproj.AssemblyReference.cache
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\RBush.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Cokle\Desktop\Diploma\Code\курсач 2.0\курсач 2.0\obj\Debug\net8.0\курсач 2.0.csproj.Up2Date

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("курсач 2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf28473f97a8bc5ad7d767db709985fe13ca142c")]
 [assembly: System.Reflection.AssemblyProductAttribute("курсач 2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("курсач 2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

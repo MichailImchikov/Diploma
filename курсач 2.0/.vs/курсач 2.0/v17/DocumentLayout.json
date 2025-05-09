@@ -1,49 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\kzn_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\kzn_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\select\\linerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\select\\linerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\dispersion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\dispersion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\randompopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\randompopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\initpopulation .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\initpopulation .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\crossingover\\crossbreeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\crossingover\\crossbreeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\ifindparents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\ifindparents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\outsourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\outsourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\outsourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\mutation\\mutationinversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\insourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\insourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\randompopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\randompopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\select\\linerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\select\\linerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\asourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\asourcing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\ifindparents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\findparent\\ifindparents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\initpopulation .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\initpopulation .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\kzn_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\kzn_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\dispersion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\startpopulation\\dispersion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\crossingover\\crossbreeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\crossingover\\crossbreeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|c:\\users\\cokle\\desktop\\diploma\\code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\mutation\\mutationinversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{349457EF-A6E2-48A1-8FEC-DAC4A4A038D2}|\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0.csproj|solutionrelative:\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\mutation\\mutationinversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,135 +75,164 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LineRang.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Select\\LineRang.cs",
-              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Select\\LineRang.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Select\\LineRang.cs",
-              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Select\\LineRang.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Title": "RandomPopulation.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\RandomPopulation.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\RandomPopulation.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\RandomPopulation.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\RandomPopulation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T06:52:55.293Z",
+              "WhenOpened": "2025-03-03T08:51:37.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IFindParents.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\IFindParents.cs",
-              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\IFindParents.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\IFindParents.cs",
-              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\IFindParents.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:17:50.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RandomPopulation.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\RandomPopulation.cs",
-              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\RandomPopulation.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\RandomPopulation.cs",
-              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\RandomPopulation.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA7wCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:51:37.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InitPopulation .cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\InitPopulation .cs",
-              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\InitPopulation .cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\InitPopulation .cs",
-              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\InitPopulation .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:48:24.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dispersion.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\Dispersion.cs",
-              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\Dispersion.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\Dispersion.cs",
-              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\Dispersion.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T15:34:36.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Program.cs",
               "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Program.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Program.cs",
               "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAvwEsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T15:33:22.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Outsourcing.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Outsourcing.cs",
-              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Outsourcing.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Outsourcing.cs",
-              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Outsourcing.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Insourcing.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Insourcing.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Insourcing.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Insourcing.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Insourcing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T11:22:30.916Z",
+              "WhenOpened": "2025-05-04T14:15:41.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ASourcing.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\ASourcing.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\ASourcing.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\ASourcing.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\ASourcing.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA2wB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:10:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "KZN_Data.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\KZN_Data.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\KZN_Data.cs",
               "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\KZN_Data.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\KZN_Data.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\KZN_Data.cs",
               "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\KZN_Data.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwCcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T15:35:27.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LineRang.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Select\\LineRang.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Select\\LineRang.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Select\\LineRang.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Select\\LineRang.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T06:52:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Outsourcing.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Outsourcing.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Outsourcing.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Outsourcing.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\Outsourcing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:22:30.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFindParents.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\IFindParents.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\IFindParents.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\IFindParents.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\FindParent\\IFindParents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T11:17:50.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Loader.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Loader.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Loader.cs",
               "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Loader.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Loader.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Loader.cs",
               "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Loader.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAMwEEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T19:02:03.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dispersion.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\Dispersion.cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\Dispersion.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\Dispersion.cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\Dispersion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:34:36.3Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "InitPopulation .cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\InitPopulation .cs",
+              "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\InitPopulation .cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\InitPopulation .cs",
+              "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\StartPopulation\\InitPopulation .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:48:24.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Crossbreeding.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Crossingover\\Crossbreeding.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Crossingover\\Crossbreeding.cs",
               "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Crossingover\\Crossbreeding.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Crossingover\\Crossbreeding.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Crossingover\\Crossbreeding.cs",
               "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Crossingover\\Crossbreeding.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAowBwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAWwEAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T08:29:39.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MutationInversion.cs",
-              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Mutation\\MutationInversion.cs",
+              "DocumentMoniker": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Mutation\\MutationInversion.cs",
               "RelativeDocumentMoniker": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Mutation\\MutationInversion.cs",
-              "ToolTip": "C:\\Users\\Cokle\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Mutation\\MutationInversion.cs",
+              "ToolTip": "C:\\Users\\Cokle\\Desktop\\Diploma\\Code\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Mutation\\MutationInversion.cs",
               "RelativeToolTip": "\u043A\u0443\u0440\u0441\u0430\u0447 2.0\\Mutation\\MutationInversion.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

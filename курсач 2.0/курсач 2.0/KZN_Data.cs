@@ -18,6 +18,18 @@ namespace курсач_2._0
             F = matrix.F;
             D = matrix.D;
         }
+        void PrintMatrix(int[,] matrix)
+        {
+            int N = matrix.GetLength(0);
+            for (int i = 0; i < N; i++)
+            {
+                for (int j = 0; j < N; j++)
+                {
+                    Console.Write(matrix[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+        }
         public int GetCriteria(int[] permutation)
         {
             int criteria = 0;
