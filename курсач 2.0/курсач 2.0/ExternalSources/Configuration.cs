@@ -8,8 +8,8 @@ namespace курсач_2._0;
 
 public struct Configuration
 {
-    public string NameFile;
-    public string DescriptionFile => StartPopulation + " " + FindParents + " "+ Crossover + " " + Mutation + " " + Select;
+    public string NameFile => StartPopulation.GetName() + "_" + FindParents.GetType().Name ;
+    public string DescriptionFile => StartPopulation.GetName() + " " + FindParents.GetType().Name + " "+ Crossover.GetType().Name + " " + Mutation.GetType().Name + " " + Select.GetType().Name;
     public ICrossingover Crossover;
     public IFindParents FindParents;
     public IMutation Mutation;

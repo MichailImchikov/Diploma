@@ -16,8 +16,8 @@ public class ProblemSolving
     }
     public void Run(int size, int row, string pref = "")
     {
-        int countPopulation = size * 20;
-        int countStep = size ;
+        int countPopulation = size / 2;
+        int countStep = size * 100 ;
         int crossParam = (int)(size / 4);
         int probability = 5;
         int сounter = 0;
@@ -59,6 +59,6 @@ public class ProblemSolving
         stopwatch.Stop();
         _configuration.excelManager.WriteCell(row, 4, data.GetCriteria(parents[0]));
         _configuration.excelManager.WriteCell(row, 5, stopwatch.Elapsed.TotalSeconds);
-        _configuration.excelManager.WriteCell(row, 7, iteracion);
+        _configuration.excelManager.WriteCell(row, 6, iteracion);
     }
 }

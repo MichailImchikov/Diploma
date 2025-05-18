@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace курсач_2._0.StartPopulation
+﻿namespace курсач_2._0.StartPopulation
 {
     class Dispersion : IStartPopulations
     {
@@ -27,6 +23,11 @@ namespace курсач_2._0.StartPopulation
                 _permutations.Add(newPermutation);
             }
             return _permutations;
+        }
+
+        public string GetName()
+        {
+            return "Dispersion";
         }
 
         private int GetRandomKey(Dictionary<int, int> dict)

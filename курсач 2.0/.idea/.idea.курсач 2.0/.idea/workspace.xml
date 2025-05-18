@@ -7,57 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f52e68ca-f539-456a-b17c-29ae28903506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/курсач 2.0/Crossingover/ICrossingover.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курсач 2.0/ExternalSources/Configuration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курсач 2.0/ExternalSources/ExcelManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курсач 2.0/Mutation/IMutation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курсач 2.0/ProblemSolving.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курсач 2.0/Select/ISelect.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.курсач 2.0/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.курсач 2.0/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.курсач 2.0/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.курсач 2.0/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/курсач 2.0.metadata.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/курсач 2.0.metadata.v9.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/курсач 2.0.projects.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/курсач 2.0.projects.v9.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/курсач 2.0.strings.v9.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/курсач 2.0.strings.v9.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/курсач 2.0/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/курсач 2.0/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/курсач 2.0/FileContentIndex/18015031-efa7-4149-b377-8a1349037cd1.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/курсач 2.0/FileContentIndex/89330313-b153-47d6-808f-cc40face6068.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/курсач 2.0/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/курсач 2.0/v17/.futdcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/курсач 2.0/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/курсач 2.0/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/курсач 2.0/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/курсач 2.0/v17/DocumentLayout.backup.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/курсач 2.0/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/курсач 2.0/v17/DocumentLayout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/Crossingover/Crossbreeding.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/Crossingover/Crossbreeding.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/FindParent/ASourcing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/FindParent/ASourcing.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/FindParent/IFindParents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/FindParent/IFindParents.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/FindParent/Insourcing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/FindParent/Insourcing.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/FindParent/Outsourcing.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/FindParent/Outsourcing.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/KZN_Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/ExternalSources/KZN_Data.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/Loader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/ExternalSources/Loader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/Mutation/MutationInversion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/Mutation/MutationInversion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/Select/LineRang.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/Select/LineRang.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/StartPopulation/Dispersion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/StartPopulation/Dispersion.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/StartPopulation/IStartPopulations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/StartPopulation/IStartPopulations.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/StartPopulation/NationalInitialPopulations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/StartPopulation/NationalInitialPopulations.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/StartPopulation/RandomPopulations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/StartPopulation/RandomPopulations.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/bin/Debug/net8.0/курсач 2.0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/bin/Debug/net8.0/курсач 2.0.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/bin/Debug/net8.0/курсач 2.0.exe" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/bin/Debug/net8.0/курсач 2.0.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/bin/Debug/net8.0/курсач 2.0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/bin/Debug/net8.0/курсач 2.0.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/ref/курсач 2.0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/ref/курсач 2.0.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/refint/курсач 2.0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/refint/курсач 2.0.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/Debug/net8.0/курсач 2.0.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/курсач 2.0/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/курсач 2.0/obj/rider.project.restore.info" afterDir="false" />
-    </list>
+    <list default="true" id="4c3ea222-7a66-4d5d-ade2-744b2c90e769" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +15,14 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -91,22 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.курсач 2.0.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.50049454&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.курсач 2.0.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "XThreadsFramesViewSplitterKey": "0.50049454",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="курсач 2.0" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />

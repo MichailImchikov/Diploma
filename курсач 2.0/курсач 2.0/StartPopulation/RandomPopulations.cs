@@ -27,5 +27,10 @@ namespace курсач_2._0.StartPopulation
             }
             return pupulation;
         }
+
+        public string GetName()
+        {
+            return "RandomPopulations";
+        }
     }
 }
