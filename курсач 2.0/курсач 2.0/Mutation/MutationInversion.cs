@@ -7,7 +7,7 @@ using System.Xml.Serialization;
 
 namespace курсач_2._0.Mutation
 {
-    public class MutationInversion
+    public class MutationInversion: IMutation
     {
         public int[] Mutation(int[] child)
         {
@@ -19,15 +19,18 @@ namespace курсач_2._0.Mutation
             {
                 mutant[i] = child[i];
             }
+
             var buffDelay2 = delay2;
             for (int i = delay1; i < delay2; i++)
             {
                 mutant[i] = child[--buffDelay2];
             }
+
             for (int i = delay2; i < child.Length; i++)
             {
                 mutant[i] = child[i];
             }
+
             return mutant;
         }
     }

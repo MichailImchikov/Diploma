@@ -7,19 +7,14 @@ namespace курсач_2._0.StartPopulation
     class Dispersion : IStartPopulations
     {
         private readonly List<int[]> _permutations = new();
-        private readonly int _countNumber = 0;
-
-        public Dispersion(int countNumber)
+        private int _countNumber = 0;
+        public List<int[]> GetBasePopulation(int size,int countPopulation)
         {
-            this._countNumber = countNumber;
-        }
-
-        public List<int[]> GetBasePopulation(int countPopulation)
-        {
+            _countNumber = size;
             while (_permutations.Count < countPopulation)
             {
-                int[] newPermutation = new int[_countNumber];
-                for (int i = 0; i < _countNumber; i++)
+                int[] newPermutation = new int[size];
+                for (int i = 0; i < size; i++)
                 {
                     var valueRepetitions = GetMinNumberByIndex(i);
                     for (int j = 0; j < i; j++)

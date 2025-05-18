@@ -4,10 +4,6 @@ namespace курсач_2._0.FindParent
 {
     public class Outsourcing : ASourcing
     {
-        public Outsourcing(List<int[]> population) : base(population)
-        {
-        }
-
         protected override int CountParametr(int[] Parent1, int[] Parent2)
         {
             int param = 0;

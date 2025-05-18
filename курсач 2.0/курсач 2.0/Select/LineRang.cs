@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace курсач_2._0.Select
 {
-    public class LineRang 
+    public class LineRang : ISelect
     {
         public List<int[]> GetNewPopulation(List<int[]>Parents, List<int[]>Childs , KZN_Data data)
         {
@@ -14,13 +14,12 @@ namespace курсач_2._0.Select
             List<int[]> oldPopulation = new List<int[]>(Parents);
             List<float> probability = new();
             Random rnd = new();
-            foreach(var child in Childs)
-            {
-                if(!oldPopulation.Contains(child)) oldPopulation.Add(child);
-            }
-
+            
+            var uniqueChildren = Childs.Where(c => 
+                !Parents.Any(p => c.SequenceEqual(p)));
+            oldPopulation.AddRange(uniqueChildren);
+            
             if (oldPopulation.Count <= Parents.Count) return oldPopulation;
-
             foreach(var element in oldPopulation)
             {
                 probability.Add(1f / (float)data.GetCriteria(element));

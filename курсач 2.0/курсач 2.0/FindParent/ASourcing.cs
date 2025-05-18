@@ -12,14 +12,11 @@ namespace курсач_2._0.FindParent
         protected List<int[]> _population;
         private List<int> _showParentIndex_One;
         private Random _rnd = new Random();
-        public ASourcing(List<int[]> population)
-        {
-            _population = population;
-        }
 
         protected abstract int CountParametr(int[] Parent1, int[] Parent2);
-        public (int[], int[]) GetParents(int Parameter)
+        public (int[], int[]) GetParents(int Parameter, List<int[]> population )
         {
+            _population = population;
             _showParentIndex_One = GetRandomSequence();
             foreach(var indexParent_One in _showParentIndex_One)
             {
@@ -27,15 +24,8 @@ namespace курсач_2._0.FindParent
                 var Parent_Two = PairSearch(Parent_One, Parameter);
                 if(Parent_Two is not null) return (Parent_One, Parent_Two);
             }
-            return GetParents(Parameter - 1);
+            return GetParents(Parameter - 1, population);
 
-        }
-        public int GetParentOneSequence()
-        {
-            if (_showParentIndex_One.Count == 0) return -1;
-            var indexParent = _showParentIndex_One[0];
-            _showParentIndex_One.RemoveAt(0);
-            return indexParent;
         }
         private int[] PairSearch(int[] Parent1, int Parameter)
         {

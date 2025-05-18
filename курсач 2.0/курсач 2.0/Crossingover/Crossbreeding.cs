@@ -1,6 +1,6 @@
 ﻿namespace курсач_2._0.Crossingover
 {
-    public class Crossbreeding
+    public class Crossbreeding : ICrossingover
     {
         private int[] _child;
         private int[] _parent1;

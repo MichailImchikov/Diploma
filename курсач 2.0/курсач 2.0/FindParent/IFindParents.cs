@@ -8,6 +8,6 @@ namespace курсач_2._0.FindParent
 {
     public interface IFindParents
     {
-        public (int[], int[]) GetParents(int Parameter);
+        public (int[], int[]) GetParents(int Parameter, List<int[]> population);
     }
 }
